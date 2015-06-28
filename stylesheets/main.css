@@ -5635,7 +5635,8 @@ section.module img {
   border: 2px solid #aaa; }
 
 .footer {
-  background-color: black; }
+  background-color: black;
+  padding: 4% !important; }
 
 .foo {
   background-color: transparent;

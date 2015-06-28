@@ -133,10 +133,13 @@ section.module img {
   border: 2px solid #aaa;
   }
 
-.footer{
+ .footer{
   background-color:black;
+  padding: 4% !important;
+
 }
-.foo{
+
+.foo {
   background-color:transparent;
   top:1em;
   color: white;
